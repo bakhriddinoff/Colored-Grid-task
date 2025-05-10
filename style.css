@@ -117,3 +117,17 @@ main {
     width: 250px;
 }
 
+.card7 {
+    border-radius: 10px;
+    grid-column: 2/3;
+    grid-row: 8/12;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.num {
+    font-size: 60px;
+}
