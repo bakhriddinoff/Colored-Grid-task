@@ -101,3 +101,19 @@ main {
     grid-row: 4/8;
 
 }
+
+.card6 {
+    border-radius: 10px;
+    grid-column: 3/4;
+    grid-row: 4/8;
+    position: relative;
+    overflow: hidden;
+    background-color:rgb(236, 187, 123);
+}
+
+.img3 {
+    position: absolute;
+    top: 280px;
+    width: 250px;
+}
+
