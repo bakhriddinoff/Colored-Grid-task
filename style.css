@@ -36,6 +36,10 @@ main {
     grid-row: 1/6;
 }
 
+.img1 {
+    width: 200px;
+}
+
 .card2 {
     background-color: blueviolet;
     color: white;
